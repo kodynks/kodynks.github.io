@@ -2064,6 +2064,11 @@ h1, h2, h3, h4, h5, h6 {
   border-color: transparent;
 }
 
+#logo img{
+    max-width: 133px;
+    height: auto;
+}
+
 @media (max-width: 673px) {
   #logo {
     margin-left: 20px;
